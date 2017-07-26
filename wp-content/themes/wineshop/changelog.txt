@@ -1,0 +1,44 @@
+Version 2.0
+	Color Scheme updated
+
+Version 1.9
+	Social login improved
+
+Version 1.8
+	Google Maps updated
+		
+Version 1.7
+    - Updated
+		Visual Composer
+		The Events Calendar
+		Revolution Slider
+	
+Version 1.6
+    - Visual Composer updated to it last version
+
+Version 1.5.1 – Update
+	- Plugin Additional Tags removed
+	
+Version 1.5 – Update
+	- Uploaded fonts are compatible with the theme
+	- Event display fixed
+	- Visual Composer updated 
+
+Version 1.4 – Update
+	- Bug's in Blog Streampage fixed
+	- Visual Composer updated 
+	
+Version 1.3 – Update
+	- Comment form fixed
+	- Contacts fixed 
+	- An option to change the image in the page header added
+
+Version 1.2 – Update
+	- Search form is fixed 
+	- Bugs in theme's files fixed
+
+Version 1.1 – Update
+	- Added: Built-in demo data import
+
+Version 1.0
+	Release WineShop

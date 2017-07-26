@@ -1,0 +1,32 @@
+{
+  "name": "greenmanwines",
+  "version": "1.0.0",
+  "description": "Greenman Wines Website Redevelopment",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TrggrMvmnt/greenman-wines.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "javascript"
+  ],
+  "author": "DangerRo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrggrMvmnt/greenman-wines/issues"
+  },
+  "homepage": "https://github.com/TrggrMvmnt/greenman-wines",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.3.2",
+    "mocha": "^2.5.3"
+  }
+}
