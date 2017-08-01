@@ -23,5 +23,14 @@ function new_loop_shop_per_page( $cols ) {
   return $cols;
 }
 
+// Modify the default WooCommerce orderby dropdown
+//
+// Options: menu_order, popularity, rating, date, price, price-desc
+// In this example I'm removing price & price-desc but you can remove any of the options
+function tmgmw_woocommerce_catalog_orderby( $orderby ) {
+	unset($orderby["rating"]);
+	return $orderby;
+}
+add_filter( "woocommerce_catalog_orderby", "tmgmw_woocommerce_catalog_orderby", 20 );
 
 ?>
