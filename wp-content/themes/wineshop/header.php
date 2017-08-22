@@ -48,7 +48,14 @@ $video_bg_show  = themerex_get_custom_option('show_video_bg')=='yes' && (themere
 	}
 	
 	wp_head();
-	?>
+?>
+
+<style>
+button.search_submit.icon-search97{
+    background-color: #9CAEAB!important;  
+}
+
+</style>
 </head>
 
 <body <?php 

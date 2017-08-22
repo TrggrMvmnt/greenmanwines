@@ -1,0 +1,4 @@
+Product Code,post_title,post_name,post_status,downloadable,virtual,visibility,stock,stock_status,backorders,manage_stock,regular_price,sale_price,weight,tax_status,tax_class,tax:product_type,tax:product_cat,tax:product_tag,country,alcohol_content
+IT1001,Test Wine 1,Tywin,publish,no,no,visible,15,instock,yes,no,30.00,,,taxable,,variable,Biodynamic,"Dry, white",Italy ,11%
+GR2005,Test Wine 2,Tyron,publish,no,no,visible,10,instock,Yes,no,25.00,,,taxable,,variable,Natural,"Dry, red",Spain,25%
+SP2010,Test Wine 3,Cersei,publish,no,no,visible,5,instock,yes,No,17.00,15.00,,taxable,,variable,"Organic, Natural",Pinot Noir,Greece,16%

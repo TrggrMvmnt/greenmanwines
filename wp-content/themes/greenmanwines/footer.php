@@ -109,7 +109,7 @@ global $THEMEREX_GLOBALS;
 									<?php if (!empty($address_2)) echo esc_html($address_2); ?>
 									<br>
 									<?php if (!empty($phone)) echo esc_html__('Phone:', 'themerex') . ' ' . esc_html($phone) . '<br>'; ?>
-									<?php if (!empty($email)) echo 'Email : <a href="mailto:'. esc_html($email) . '">'. esc_html($email) . '</a>'; ?>
+									<?php if (!empty($email)) echo 'Email : <a href="mailto:'. esc_html($email) . '" class="footer-link">'. esc_html($email) . '</a>'; ?>
 								</div>
 								<?php echo trim(themerex_sc_socials(array('size'=>"medium"))); ?>
 							</div>	<!-- /.content_wrap -->

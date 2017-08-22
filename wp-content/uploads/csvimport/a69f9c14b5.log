@@ -1,0 +1,21 @@
+-- Skipping the first line
+Product found (SKU), ID is: 2173
+http://staging.greenmanwines.ie/wp/wp-content/uploads/2017/07/test-wine-image.jpg
+-----> Row
+Product saved with ID: 2173
+featured image is imported using the filename
+The image is attached as featured image
+-----> end row
+Product found (SKU), ID is: 2174
+-----> Row
+backorders changed to no
+Product saved with ID: 2174
+No featured image available 
+-----> end row
+Product found (SKU), ID is: 2175
+-----> Row
+manage_stock changed to no
+Product is on sale
+Product saved with ID: 2175
+No featured image available 
+-----> end row

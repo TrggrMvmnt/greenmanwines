@@ -1,0 +1,25 @@
+-- Skipping the first line
+New product
+test-wine-image.jpg
+-----> Row
+Product saved with ID: 2196
+featured image is imported using the filename
+The image is attached as featured image
+-----> end row
+New product
+test-wine-image.jpg
+-----> Row
+backorders changed to no
+Product saved with ID: 2197
+featured image is imported using the filename
+The image is attached as featured image
+-----> end row
+New product
+test-wine-image.jpg
+-----> Row
+manage_stock changed to no
+Product is on sale
+Product saved with ID: 2198
+featured image is imported using the filename
+The image is attached as featured image
+-----> end row

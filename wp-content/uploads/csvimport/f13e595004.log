@@ -1,0 +1,19 @@
+-- Skipping the first line
+Product found (SKU), ID is: 2164
+-----> Row
+Product saved with ID: 2164
+No featured image available 
+-----> end row
+Product found (SKU), ID is: 2165
+-----> Row
+backorders changed to no
+Product saved with ID: 2165
+No featured image available 
+-----> end row
+Product found (SKU), ID is: 2166
+-----> Row
+manage_stock changed to no
+Product is on sale
+Product saved with ID: 2166
+No featured image available 
+-----> end row

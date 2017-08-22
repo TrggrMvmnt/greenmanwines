@@ -1,0 +1,6 @@
+Product Code,Name,Country,Region,Subregion,attribute_data:Producer,Vintage,Type,Winemaker,Alcohol,Bottle Size,Description,Price
+FR00197,Test wine 1,France,Rhône Valley,Brézème,Éric Texier 'Adèle' Côtes du Rhône Blanc ,2016,White,Éric Texier,10.5%,750 ml,Lorem ipsum dolor set amiet,33
+FR00198,Test wine 2,France,Loire,Pouilly-Fumé,Alexandre Bain 'Champ Couturier',2015,White,Alexandre Bain,12.7%,750 ml,Lorem ipsum dolor set amiet,25
+FR00199,Test wine 3,France,Loire,Pouilly-Fumé,Alexandre Bain 'Pierre Précieuse',2015,White,Alexandre Bain,12.5%,750 ml,Lorem ipsum dolor set amiet,77
+FR00200,Test wine 4,France,Bordeaux,Margaux,Château Palmer 'Alter Ego de Palmer',2008,Red,Thomas Duroux,13.5%,750 ml,Lorem ipsum dolor set amiet,12
+SP00100,Spain,Spain,Catalonia,Barca,José Enrique,2017,White,Jose Enrique,14%,,Lorem ipsum dolor set amiet,20

@@ -1,0 +1,173 @@
+07-24-2017 @ 11:24:07 - Error: Unable to verify domain - Before you can start using Apple Pay on the Web, you must first accept Apple's Terms of Service. You can do so through the Stripe Dashboard here: https://dashboard.stripe.com/account/apple_pay.
+07-24-2017 @ 11:24:13 - Apple Pay: Apple Pay not enabled or Stripe is not an available gateway ( Apple Pay button disabled )
+07-24-2017 @ 11:24:13 - Apple Pay: Apple Pay not enabled or Stripe is not an available gateway ( Apple Pay button disabled )
+07-24-2017 @ 11:24:13 - Apple Pay: Apple Pay not enabled or Stripe is not an available gateway ( Apple Pay button disabled )
+07-24-2017 @ 11:24:13 - Apple Pay: Apple Pay not enabled or Stripe is not an available gateway ( Apple Pay button disabled )
+07-24-2017 @ 11:24:14 - Apple Pay: Apple Pay not enabled or Stripe is not an available gateway ( Apple Pay button disabled )
+07-24-2017 @ 11:24:14 - Apple Pay: Apple Pay not enabled or Stripe is not an available gateway ( Apple Pay button disabled )
+07-24-2017 @ 11:24:14 - Apple Pay: Apple Pay not enabled or Stripe is not an available gateway ( Apple Pay button disabled )
+07-24-2017 @ 11:24:14 - Apple Pay: Apple Pay not enabled or Stripe is not an available gateway ( Apple Pay button disabled )
+07-24-2017 @ 11:26:45 - Error: Unable to verify domain - Before you can start using Apple Pay on the Web, you must first accept Apple's Terms of Service. You can do so through the Stripe Dashboard here: https://dashboard.stripe.com/account/apple_pay.
+07-24-2017 @ 11:26:46 - Your domain has been verified with Apple Pay!
+07-24-2017 @ 11:27:53 - Info: Begin processing payment for order 1425 for the amount of 20.00
+07-24-2017 @ 11:27:53 - charges request: Array
+(
+    [currency] => eur
+    [amount] => 2000
+    [description] => Greenman Wines - Order 1425
+    [capture] => true
+    [expand[]] => balance_transaction
+    [metadata] => Array
+        (
+            [Customer Name] => Ronan O'Leary
+            [Customer Email] => roleary81@gmail.com
+        )
+
+    [source] => tok_1Aj4j3BfSfD2cXbaDX1repj9
+)
+
+07-24-2017 @ 11:27:54 - Processing response: stdClass Object
+(
+    [id] => ch_1Aj4j7BfSfD2cXba8AtKK6KR
+    [object] => charge
+    [amount] => 2000
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_1Aj4j8BfSfD2cXbapeEFA57A
+            [object] => balance_transaction
+            [amount] => 2000
+            [available_on] => 1501459200
+            [created] => 1500895673
+            [currency] => eur
+            [description] => Greenman Wines - Order 1425
+            [fee] => 102
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 19
+                            [application] => 
+                            [currency] => eur
+                            [description] => VAT
+                            [type] => tax
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [amount] => 83
+                            [application] => 
+                            [currency] => eur
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 1898
+            [source] => ch_1Aj4j7BfSfD2cXba8AtKK6KR
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_1Aj4j7BfSfD2cXba8AtKK6KR
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1500895673
+    [currency] => eur
+    [customer] => 
+    [description] => Greenman Wines - Order 1425
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+            [Customer Name] => Ronan O'Leary
+            [Customer Email] => roleary81@gmail.com
+        )
+
+    [on_behalf_of] => 
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_1Aj4j7BfSfD2cXba8AtKK6KR/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_1Aj4j3BfSfD2cXbaUxZbRK65
+            [object] => card
+            [address_city] => 
+            [address_country] => 
+            [address_line1] => 
+            [address_line1_check] => 
+            [address_line2] => 
+            [address_state] => 
+            [address_zip] => 
+            [address_zip_check] => 
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 10
+            [exp_year] => 2020
+            [fingerprint] => wu4SAaLdENM2D64V
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => roleary81@gmail.com
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+    [transfer_group] => 
+)
+
+07-24-2017 @ 11:27:54 - Success: Stripe charge complete (Charge ID: ch_1Aj4j7BfSfD2cXba8AtKK6KR)

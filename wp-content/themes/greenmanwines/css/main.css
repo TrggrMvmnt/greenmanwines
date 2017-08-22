@@ -160,3 +160,13 @@ div.woocommerce-product-gallery__image {
     right: 0;
     background: #9caeab;
     padding: 3px 5px; } }
+
+.top_panel_icon.search_wrap, .top_panel_inner_style_5 .menu_main_responsive_button, .top_panel_inner_style_6 .menu_main_responsive_button, .top_panel_inner_style_7 .menu_main_responsive_button {
+  color: #9caeab !important; }
+
+.mode_buttons,
+.woof_show_auto_form {
+  display: none !important; }
+
+span.tagged_as {
+  text-transform: uppercase; }

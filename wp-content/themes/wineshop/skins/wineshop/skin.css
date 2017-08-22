@@ -675,8 +675,9 @@ textarea::-webkit-input-placeholder {
 }
 
 .top_panel_inner_style_6 .top_panel_icon.search_wrap .search_submit{
-  color: #fff;
+      color: #fff;
       border-radius: 50%;
+      background-color: #9CAEAB !important;
 }
 .top_panel_inner_style_4 .top_panel_icon.menu_main_cart,
 .top_panel_inner_style_6 .top_panel_icon.menu_main_cart {

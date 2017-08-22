@@ -1,0 +1,4 @@
+Product Code,post_title,post_name,long_description,short_description,post_status,downloadable,virtual,visibility,stock,stock_status,backorders,manage_stock,regular_price,sale_price,weight,tax_status,tax_class,tax:product_type,tax:product_cat,tax:product_tag,country,region,sub_region,producer,alcohol_content
+IT1001,Test Wine 1,Tywin,Lorem ipsum,Amiet connsecetuer,publish,no,no,visible,15,instock,yes,no,30.00,,,taxable,,variable,Biodynamic,"Dry, white",Italy ,Tuscany,Lucca,Robb Stark,11%
+GR2005,Test Wine 2,Tyron,Dolor Set,Set dolor,publish,no,no,visible,10,instock,Yes,no,25.00,,,taxable,,variable,Natural,"Dry, red",Spain,Catalonia,Barcelona,Jon Snow,25%
+SP2010,Test Wine 3,Cersei,Amiet connsecetuer,Ipsum Lorem,publish,no,no,visible,5,instock,yes,No,17.00,15.00,,taxable,,variable,"Organic, Natural",Pinot Noir,Greece,Aegean Coast,Sparta,Daenerys Targaryen,16%

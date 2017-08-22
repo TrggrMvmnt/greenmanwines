@@ -1,0 +1,21 @@
+-- Skipping the first line
+New product
+http://staging.greenmanwines.ie/wp/wp-content/uploads/2017/07/test-wine-image.jpg
+-----> Row
+Product saved with ID: 2182
+featured image is imported using the filename
+The image is attached as featured image
+-----> end row
+New product
+-----> Row
+backorders changed to no
+Product saved with ID: 2183
+No featured image available 
+-----> end row
+New product
+-----> Row
+manage_stock changed to no
+Product is on sale
+Product saved with ID: 2184
+No featured image available 
+-----> end row
